@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oayka\\source\\repos\\pansiyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|c:\\users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmstoklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmstoklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmstoklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmstoklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\frmyenim\u00FCsterics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\frmyenim\u00FCsterics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906E1B0D-E7ED-4441-9613-385A3EE3D1C6}|pansiyon\\pansiyon.csproj|solutionrelative:pansiyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\Program.cs",
+              "RelativeDocumentMoniker": "pansiyon\\Program.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\Program.cs",
+              "RelativeToolTip": "pansiyon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:40:31.66Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\Form1.cs",
+              "RelativeDocumentMoniker": "pansiyon\\Form1.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\Form1.cs",
+              "RelativeToolTip": "pansiyon\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:26:33.061Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmStoklar.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmStoklar.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmStoklar.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmStoklar.cs",
+              "RelativeToolTip": "pansiyon\\FrmStoklar.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:38:10.234Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmAnaSayfa.cs",
+              "RelativeToolTip": "pansiyon\\FrmAnaSayfa.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:30:44.517Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGelirGider.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmGelirGider.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmGelirGider.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmGelirGider.cs [Tasar\u0131m]",
+              "RelativeToolTip": "pansiyon\\FrmGelirGider.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:31:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGelirGider.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmGelirGider.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmGelirGider.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmGelirGider.cs",
+              "RelativeToolTip": "pansiyon\\FrmGelirGider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:46:16.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmOdalar.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmOdalar.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmOdalar.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmOdalar.cs",
+              "RelativeToolTip": "pansiyon\\FrmOdalar.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:02:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmYeniM\u00FCsterics.cs",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmYeniM\u00FCsterics.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmYeniM\u00FCsterics.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmYeniM\u00FCsterics.cs",
+              "RelativeToolTip": "pansiyon\\FrmYeniM\u00FCsterics.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:29:53.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOdalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmOdalar.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmOdalar.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmOdalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "pansiyon\\FrmOdalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:30:09.285Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmStoklar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmStoklar.cs",
+              "RelativeDocumentMoniker": "pansiyon\\FrmStoklar.cs",
+              "ToolTip": "C:\\Users\\oayka\\source\\repos\\pansiyon\\pansiyon\\FrmStoklar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "pansiyon\\FrmStoklar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:23:59.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
